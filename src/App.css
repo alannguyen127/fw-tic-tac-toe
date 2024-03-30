@@ -80,6 +80,7 @@ body {
 }
 
 .history {
+  margin-top: 10px;
   border: 1px solid #20b7f6;
   border-radius: 5px;
   padding: 10px;
